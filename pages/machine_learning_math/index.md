@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Machine Learning Math
 ---
 
 Hello Test
