@@ -14,6 +14,7 @@ author: BrightLamp
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Machine Learning Math: "https://brightlamp.github.io/pages/machine_learning_math/index"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://github.com/BrightLamp/BrightLamp.github.io"
