@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: BrightLamp's website
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: BrightLamp's website
 
 # Your name to show in the footer
-author: Some Person
+author: BrightLamp
 
 # --- List of links in the navigation bar --- #
 
@@ -16,7 +16,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://github.com/BrightLamp/BrightLamp.github.io"
 
 # --- Logo --- #
 
@@ -40,7 +40,7 @@ round-avatar: true
 social-network-links:
 #  email: "someone@example.com"
 #  facebook: deanattali
-  github: daattali
+  github: brightLamp
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
