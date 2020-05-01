@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: minimal
 title: HelloWorld!
 image: /assets/img/hello_world.jpeg
-layout: minimal
 ---
 HelloWorld!
 
